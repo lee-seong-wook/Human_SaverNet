@@ -1,7 +1,7 @@
 # Human_SaverNet
 > **** <br/>
-> 주제: 자동차 번호판 인식 서비스를 통한 효율적인 교통 관리와 안전 강화   <br/>
-> **프로젝트 기간: 2023.08.20 ~ 2023.08.22**
+> 주제: 자동화 아이디어 경진대회  <br/>
+> **프로젝트 기간: 2023.09 ~ 2023.10.**
 >
 > <img width="500" alt="image" src="https://github.com/lee-seong-wook/Human_SaverNet/assets/130055880/e2ce4e69-6778-4641-8eeb-65d5237d3fd0">
 ## 팀 소개
