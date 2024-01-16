@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E1I4</title>
+    <link rel="stylesheet" href="css/style.css"/>
+    <link rel="stylesheet" href="css/modal.css"/>
+    
+</head>
+<body>
+    <div id="myModal" class="modal hidden">
+        <div class="modal-content">
+          <p>O번 카메라 위치에서 신호가 들어왔습니다.</p>
+          <input id="clearBtn" type="submit" value="해제">
+          <input id="reportBtn1" class="hidden" type="submit" value="위치1 신고">
+          <input id="reportBtn2" class="hidden" type="submit" value="위치2 신고">
+          <input id="crashBtn" class="hidden" type="submit" value="다른 신호가 들어왔습니다.">
+        </div>
+    </div>
+
+    <div class="container">
+        <img id="cam1">
+        <img id="cam2">
+    </div>
+
+    <script src="js/camRelevant.js"></script>
+    <script src="js/modalControl.js"></script>
+</body>
+</html>

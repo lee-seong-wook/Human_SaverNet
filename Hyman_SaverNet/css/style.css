@@ -1,0 +1,28 @@
+.hidden{
+    display: none;
+}
+
+#cam1 {
+    position: absolute;
+    left: 0;
+    top: 10%;
+    width: 50%; 
+    height: 80%; 
+}
+
+#cam2 {
+    position: absolute;
+    right: 0;
+    top: 10%;
+    width: 50%; 
+    height: 80%;
+}
+
+#inputdata{
+    position: absolute;
+    bottom: 10px;
+}
+
+body{
+    background-color:lightslategray;
+}

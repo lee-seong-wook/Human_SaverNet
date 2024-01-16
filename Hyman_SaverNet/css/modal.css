@@ -1,0 +1,35 @@
+/* 모달 스타일 */
+.modal {
+    display: block;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    padding-top: 10px;
+    font-size: 20px;
+} .hidden{
+    display: none;
+}
+
+/* 모달 내용 스타일 */
+.modal-content {
+    background-color: white;
+    margin: 0 auto;
+    padding: 5px;
+    border: 1px solid #888;
+    width: 80%;
+    margin-top: 5%;
+    transform: translateY(-50%);
+    text-align: center;
+}
+
+
+/* 버튼 스타일 */
+.modal-content input[type="submit"] {
+    margin: 10px; /* 버튼 사이에 여백 추가 */
+    font-size: 20px;
+}
+
