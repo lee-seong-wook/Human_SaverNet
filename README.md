@@ -37,7 +37,7 @@ $pip install pyserial
 
 ## 참고사항
 ```bash
-실행파일은 py안의 FPB_main.py파일입니다.
+실행파일은 py안의 main.py파일입니다.
 tts를 만들려면 py 파일 내의 soundmaker.py파일로 만들면 됩니다.(경로 재설정 필요)
 작품의 라즈베리파이와 안의 cctv를 화면을 보는 기기는 같은 와이파이환경에서 실행되어야 합니다.
 cctv의 스트리밍 화면은 파일내의 index.html파일에서 코드 실행 후 보이는 아이피주소를 입력시켜주면 됩니다.
