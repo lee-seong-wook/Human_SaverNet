@@ -48,11 +48,11 @@ cctv의 스트리밍 화면은 파일내의 index.html파일에서 코드 실행
 <img width="600" alt="image" src=https://github.com/lee-seong-wook/Human_SaverNet/assets/130055880/31b5c024-45e6-4304-9322-a1ecfffe8e98>
 
 ## 기존사례
-<img src="https://github.com/lee-seong-wook/Human_SaverNet/assets/130055880/09933ce7-2e21-454b-8ec4-4b4fbf004f3a" width="500" alt="image" style="margin-right: 20px;"> <img src="https://github.com/lee-seong-wook/Human_SaverNet/assets/130055880/29b68ce3-cb4b-4c47-9da8-b2d480cc7eea" width="500" alt="image">
+<img src="https://github.com/lee-seong-wook/Human_SaverNet/assets/130055880/09933ce7-2e21-454b-8ec4-4b4fbf004f3a" width="500" alt="image" style="margin-right: 10px;"> <img src="https://github.com/lee-seong-wook/Human_SaverNet/assets/130055880/29b68ce3-cb4b-4c47-9da8-b2d480cc7eea" width="500" alt="image">
 
 
 ## 핵심 구현 기술과 작품 구성도
-<img src="https://github.com/lee-seong-wook/Human_SaverNet/assets/130055880/1f8ad318-f22e-481c-a942-42b4d4669b90" width="500" alt="image" style="margin-right: 20px;"> <img src="https://github.com/lee-seong-wook/Human_SaverNet/assets/130055880/e1e93a20-878c-4ca0-9daa-7cac698325d7" width="500" alt="image">
+<img src="https://github.com/lee-seong-wook/Human_SaverNet/assets/130055880/1f8ad318-f22e-481c-a942-42b4d4669b90" width="500" alt="image" style="margin-right: 10px;"> <img src="https://github.com/lee-seong-wook/Human_SaverNet/assets/130055880/e1e93a20-878c-4ca0-9daa-7cac698325d7" width="500" alt="image">
 
 ## 기대효과
 <img width="600" alt="image" src=https://github.com/lee-seong-wook/Human_SaverNet/assets/130055880/dbc98b7e-56cd-4286-b5c8-c6814cb977d4>
