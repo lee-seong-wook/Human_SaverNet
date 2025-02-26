@@ -49,7 +49,7 @@ void loop() {
     setMotorAngle(1, 10);   // 모터 1을 20도로 이동
     setMotorAngle(2, 170);  // 모터 0을 90도로 이동
     setMotorAngle(3, 10);   // 모터 1을 90도로 이동
-    delay(1000);
+    delay(1000); //상황에 맞게 조절
   }
 }
 
