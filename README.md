@@ -36,12 +36,13 @@ Human_SaverNet은 Raspberry Pi와 Arduino를 연동해 안전 보조 기능을 �
 - `Hyman_SaverNet/arduPCA`: 보드 제어 관련 파일
 
 ## Core System
-| Core System 1 | Core System 2 |
-| --- | --- |
-| ![Core System 1](https://github.com/lee-seong-wook/Human_SaverNet/assets/130055880/1f8ad318-f22e-481c-a942-42b4d4669b90) | ![Core System 2](https://github.com/lee-seong-wook/Human_SaverNet/assets/130055880/e1e93a20-878c-4ca0-9daa-7cac698325d7) |
+![Core System](https://github.com/lee-seong-wook/Human_SaverNet/assets/130055880/1f8ad318-f22e-481c-a942-42b4d4669b90)
 
 <details>
 <summary>Extended Gallery</summary>
+
+### Additional Core View
+![Core System 2](https://github.com/lee-seong-wook/Human_SaverNet/assets/130055880/e1e93a20-878c-4ca0-9daa-7cac698325d7)
 
 ### Motivation
 ![Motivation](https://github.com/lee-seong-wook/Human_SaverNet/assets/130055880/31b5c024-45e6-4304-9322-a1ecfffe8e98)
