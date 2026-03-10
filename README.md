@@ -2,7 +2,7 @@
 
 > A safety-oriented assistive system that combines Raspberry Pi, Arduino, TTS alerts, and local streaming interfaces.
 
-<img width="520" alt="Human SaverNet overview" src="https://github.com/lee-seong-wook/Human_SaverNet/assets/130055880/e2ce4e69-6778-4641-8eeb-65d5237d3fd0">
+![Human SaverNet Cover](https://github.com/lee-seong-wook/Human_SaverNet/assets/130055880/e2ce4e69-6778-4641-8eeb-65d5237d3fd0)
 
 ## Overview
 Human_SaverNet은 Raspberry Pi와 Arduino를 연동해 안전 보조 기능을 제공하는 시스템입니다. CCTV 스트리밍 화면 확인, TTS 음성 안내, 웹 인터페이스, 하드웨어 제어를 하나의 프로젝트로 묶어 자동화 아이디어 경진대회 형태로 구현했습니다. 실제 사용 환경을 고려해 보드 간 연동과 음성 안내 흐름을 중심으로 구성한 점이 핵심입니다.
@@ -35,21 +35,38 @@ Human_SaverNet은 Raspberry Pi와 Arduino를 연동해 안전 보조 기능을 �
 - `Hyman_SaverNet/index.html`, `Hyman_SaverNet/main.html`: 스트리밍 및 화면 확인용 웹 페이지
 - `Hyman_SaverNet/arduPCA`: 보드 제어 관련 파일
 
-## Images / Demo
-<img width="520" alt="Human SaverNet system" src="https://github.com/lee-seong-wook/Human_SaverNet/assets/130055880/1f8ad318-f22e-481c-a942-42b4d4669b90">
+## Project Gallery
+### Motivation
+![Motivation](https://github.com/lee-seong-wook/Human_SaverNet/assets/130055880/31b5c024-45e6-4304-9322-a1ecfffe8e98)
+
+### Related Cases
+| Case 1 | Case 2 |
+| --- | --- |
+| ![Related Case 1](https://github.com/lee-seong-wook/Human_SaverNet/assets/130055880/09933ce7-2e21-454b-8ec4-4b4fbf004f3a) | ![Related Case 2](https://github.com/lee-seong-wook/Human_SaverNet/assets/130055880/29b68ce3-cb4b-4c47-9da8-b2d480cc7eea) |
+
+### Core System
+| Core System 1 | Core System 2 |
+| --- | --- |
+| ![Core System 1](https://github.com/lee-seong-wook/Human_SaverNet/assets/130055880/1f8ad318-f22e-481c-a942-42b4d4669b90) | ![Core System 2](https://github.com/lee-seong-wook/Human_SaverNet/assets/130055880/e1e93a20-878c-4ca0-9daa-7cac698325d7) |
+
+### Expected Effect
+![Expected Effect](https://github.com/lee-seong-wook/Human_SaverNet/assets/130055880/dbc98b7e-56cd-4286-b5c8-c6814cb977d4)
 
 <details>
-<summary>Legacy Notes</summary>
+<summary>Team</summary>
 
-### Team
-| Name | Role |
-| --- | --- |
-| 이성욱 | 하드웨어 및 소프트웨어 구현 |
-| 이용진 | 하드웨어 및 소프트웨어 구현 |
-| 장성영 | 웹 개발 |
-| 예진희 | PPT 제작 |
+| Name | Photo | Role |
+| --- | --- | --- |
+| 이성욱 | ![이성욱](https://github.com/lee-seong-wook/MyLock/assets/130055880/813d2c89-0c3b-49c6-89ed-43969d02ce1f) | 하드웨어 및 소프트웨어 구현 |
+| 이용진 | ![이용진](https://github.com/lee-seong-wook/object-detection-robot-/assets/130055880/b032aa51-f0d0-4354-b310-d57b3549b58a) | 하드웨어 및 소프트웨어 구현 |
+| 장성영 | ![장성영](https://github.com/lee-seong-wook/MyLock/assets/130055880/cf67e022-41c2-45d4-94ab-dff07c089034) | 웹 개발 |
+| 예진희 | ![예진희](https://github.com/lee-seong-wook/MyLock/assets/130055880/0bf50633-c987-4620-b488-602a8f4f91c6) | PPT 제작 |
 
-### Setup Notes
+</details>
+
+<details>
+<summary>Setup Notes</summary>
+
 ```bash
 pip install gtts
 pip install playsound
@@ -60,9 +77,5 @@ pip install pyserial
 ```
 
 작품의 Raspberry Pi와 화면을 확인하는 기기는 같은 Wi-Fi 환경에서 실행되어야 하며, 실행 파일은 `Hyman_SaverNet/py/FPB_main.py`를 기준으로 사용합니다.
-
-### Legacy Images
-<img width="520" alt="Motivation" src="https://github.com/lee-seong-wook/Human_SaverNet/assets/130055880/31b5c024-45e6-4304-9322-a1ecfffe8e98">
-<img width="520" alt="Expected effect" src="https://github.com/lee-seong-wook/Human_SaverNet/assets/130055880/dbc98b7e-56cd-4286-b5c8-c6814cb977d4">
 
 </details>
