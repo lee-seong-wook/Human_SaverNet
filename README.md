@@ -35,7 +35,14 @@ Human_SaverNet은 Raspberry Pi와 Arduino를 연동해 안전 보조 기능을 �
 - `Hyman_SaverNet/index.html`, `Hyman_SaverNet/main.html`: 스트리밍 및 화면 확인용 웹 페이지
 - `Hyman_SaverNet/arduPCA`: 보드 제어 관련 파일
 
-## Project Gallery
+## Core System
+| Core System 1 | Core System 2 |
+| --- | --- |
+| ![Core System 1](https://github.com/lee-seong-wook/Human_SaverNet/assets/130055880/1f8ad318-f22e-481c-a942-42b4d4669b90) | ![Core System 2](https://github.com/lee-seong-wook/Human_SaverNet/assets/130055880/e1e93a20-878c-4ca0-9daa-7cac698325d7) |
+
+<details>
+<summary>Extended Gallery</summary>
+
 ### Motivation
 ![Motivation](https://github.com/lee-seong-wook/Human_SaverNet/assets/130055880/31b5c024-45e6-4304-9322-a1ecfffe8e98)
 
@@ -44,13 +51,10 @@ Human_SaverNet은 Raspberry Pi와 Arduino를 연동해 안전 보조 기능을 �
 | --- | --- |
 | ![Related Case 1](https://github.com/lee-seong-wook/Human_SaverNet/assets/130055880/09933ce7-2e21-454b-8ec4-4b4fbf004f3a) | ![Related Case 2](https://github.com/lee-seong-wook/Human_SaverNet/assets/130055880/29b68ce3-cb4b-4c47-9da8-b2d480cc7eea) |
 
-### Core System
-| Core System 1 | Core System 2 |
-| --- | --- |
-| ![Core System 1](https://github.com/lee-seong-wook/Human_SaverNet/assets/130055880/1f8ad318-f22e-481c-a942-42b4d4669b90) | ![Core System 2](https://github.com/lee-seong-wook/Human_SaverNet/assets/130055880/e1e93a20-878c-4ca0-9daa-7cac698325d7) |
-
 ### Expected Effect
 ![Expected Effect](https://github.com/lee-seong-wook/Human_SaverNet/assets/130055880/dbc98b7e-56cd-4286-b5c8-c6814cb977d4)
+
+</details>
 
 <details>
 <summary>Team</summary>
