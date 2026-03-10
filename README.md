@@ -55,12 +55,12 @@ Human_SaverNet은 Raspberry Pi와 Arduino를 연동해 안전 보조 기능을 �
 <details>
 <summary>Team</summary>
 
-| Name | Photo | Role |
-| --- | --- | --- |
-| 이성욱 | ![이성욱](https://github.com/lee-seong-wook/MyLock/assets/130055880/813d2c89-0c3b-49c6-89ed-43969d02ce1f) | 하드웨어 및 소프트웨어 구현 |
-| 이용진 | ![이용진](https://github.com/lee-seong-wook/object-detection-robot-/assets/130055880/b032aa51-f0d0-4354-b310-d57b3549b58a) | 하드웨어 및 소프트웨어 구현 |
-| 장성영 | ![장성영](https://github.com/lee-seong-wook/MyLock/assets/130055880/cf67e022-41c2-45d4-94ab-dff07c089034) | 웹 개발 |
-| 예진희 | ![예진희](https://github.com/lee-seong-wook/MyLock/assets/130055880/0bf50633-c987-4620-b488-602a8f4f91c6) | PPT 제작 |
+| Name | Role |
+| --- | --- |
+| 이성욱 | 하드웨어 및 소프트웨어 구현 |
+| 이용진 | 하드웨어 및 소프트웨어 구현 |
+| 장성영 | 웹 개발 |
+| 예진희 | PPT 제작 |
 
 </details>
 
