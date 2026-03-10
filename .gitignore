@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+Hyman_SaverNet/py/test.mp3
+.env
