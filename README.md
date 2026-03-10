@@ -30,10 +30,10 @@ Human_SaverNet은 Raspberry Pi와 Arduino를 연동해 안전 보조 기능을 �
 - 안전 보조 시나리오를 위한 시스템 구성도와 구현 흐름 정리
 
 ## Implementation Notes
-- `Hyman_SaverNet/py/FPB_main.py`: 메인 제어 로직
+- `Hyman_SaverNet/py/main.py`: 메인 제어 로직
 - `Hyman_SaverNet/py/soundmaker.py`: TTS 음성 파일 생성 스크립트
 - `Hyman_SaverNet/index.html`, `Hyman_SaverNet/main.html`: 스트리밍 및 화면 확인용 웹 페이지
-- `Hyman_SaverNet/arduPCA`: 보드 제어 관련 파일
+- `Hyman_SaverNet/arduPCA/ardu_pca.ino`: 보드 제어 관련 파일
 
 ## Core System
 ![Core System](https://github.com/lee-seong-wook/Human_SaverNet/assets/130055880/1f8ad318-f22e-481c-a942-42b4d4669b90)
@@ -81,6 +81,6 @@ pip install websocket
 pip install pyserial
 ```
 
-작품의 Raspberry Pi와 화면을 확인하는 기기는 같은 Wi-Fi 환경에서 실행되어야 하며, 실행 파일은 `Hyman_SaverNet/py/FPB_main.py`를 기준으로 사용합니다.
+작품의 Raspberry Pi와 화면을 확인하는 기기는 같은 Wi-Fi 환경에서 실행되어야 하며, 실행 파일은 `Hyman_SaverNet/py/main.py`를 기준으로 사용합니다.
 
 </details>
